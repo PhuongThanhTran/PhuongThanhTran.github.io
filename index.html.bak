@@ -51,7 +51,7 @@ https://templatemo.com/tm-553-xtra-blog
                 </ul>
             </nav>
             <div class="tm-mb-65">
-                <a rel="nofollow" href="https://fb.com/templatemo" class="tm-social-link">
+                <a rel="nofollow" href="https://fb.com" class="tm-social-link">
                     <i class="fab fa-facebook tm-social-icon"></i>
                 </a>
                 <a href="https://twitter.com" class="tm-social-link">
@@ -256,7 +256,7 @@ https://templatemo.com/tm-553-xtra-blog
             <footer class="row tm-row">
                 <hr class="col-12">
                 <div class="col-md-6 col-12 tm-color-gray">
-                    Content: <a rel="nofollow" target="_parent" href="https://templatemo.com" class="tm-external-link">Thanh Tran</a>
+                    Content: <a rel="nofollow" target="_parent" href="index.html" class="tm-external-link">Thanh Tran</a>
                 </div>
                 <div class="col-md-6 col-12 tm-color-gray tm-copyright">
                     Copyright 2022 ThanhTran

@@ -198,22 +198,22 @@ https://templatemo.com/tm-553-xtra-blog
                         </ul>
                         <hr class="mb-3 tm-hr-primary">
                         <h2 class="tm-mb-40 tm-post-title tm-color-primary">Related Posts</h2>
-                        <a href="#" class="d-block tm-mb-40">
+                        <a href="https://www.nature.com/articles/s41598-022-13237-7" class="d-block tm-mb-40">
                             <figure>
                                 <img src="img/img-02.jpg" alt="Image" class="mb-3 img-fluid">
-                                <figcaption class="tm-color-primary">Duis mollis diam nec ex viverra scelerisque a sit</figcaption>
+                                <figcaption class="tm-color-primary">Machine failure detection system based on sound</figcaption>
                             </figure>
                         </a>
-                        <a href="#" class="d-block tm-mb-40">
+                        <a href="https://ieeexplore.ieee.org/abstract/document/9660125" class="d-block tm-mb-40">
                             <figure>
                                 <img src="img/img-05.jpg" alt="Image" class="mb-3 img-fluid">
-                                <figcaption class="tm-color-primary">Integer quis lectus eget justo ullamcorper ullamcorper</figcaption>
+                                <figcaption class="tm-color-primary">Denoise audio using deep learning</figcaption>
                             </figure>
                         </a>
-                        <a href="#" class="d-block tm-mb-40">
+                        <a href="https://ieeexplore.ieee.org/abstract/document/8644754" class="d-block tm-mb-40">
                             <figure>
                                 <img src="img/img-06.jpg" alt="Image" class="mb-3 img-fluid">
-                                <figcaption class="tm-color-primary">Nam lobortis nunc sed faucibus commodo</figcaption>
+                                <figcaption class="tm-color-primary">Blood cell segmentation and counting using deep learning</figcaption>
                             </figure>
                         </a>
                     </div>                    

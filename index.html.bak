@@ -96,8 +96,7 @@ https://templatemo.com/tm-553-xtra-blog
                     <p class="tm-pt-30">
 						Monitoring the conditions of machines is vital in the manufacturing industry. 
 						Early detection of faulty components in machines for stopping and repairing the failed components can minimize the downtime of the machine. 
-						<a rel="nofollow" href="https://www.nature.com/articles/s41598-022-13237-7" target="_blank">1. A deep learning approach for detecting drill bit failures from a small sound dataset</a>
-						<a rel="nofollow" href="https://ieeexplore.ieee.org/abstract/document/9252126" target="_blank">2. Drill Fault Diagnosis Based on the Scalogram and Mel Spectrogram of Sound Signals Using Artificial Intelligence</a>
+
                     </p>
 					<p class="tm-pt-30">
 						List papers:
@@ -105,6 +104,7 @@ https://templatemo.com/tm-553-xtra-blog
                     </p>
 					<p class="tm-pt-30">
 						<a rel="nofollow" href="https://ieeexplore.ieee.org/abstract/document/9252126" target="_blank">2. Drill Fault Diagnosis Based on the Scalogram and Mel Spectrogram of Sound Signals Using Artificial Intelligence</a>
+						<a rel="nofollow" href="https://github.com/thanhtran1965/DrillFailureDetection_SciRep2022" target="_blank">Github</a>
                     </p>
                     <div class="d-flex justify-content-between tm-pt-45">
                         <span class="tm-color-primary">Published</span>

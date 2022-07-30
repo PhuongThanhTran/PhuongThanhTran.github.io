@@ -73,7 +73,7 @@ https://templatemo.com/tm-553-xtra-blog
             <!-- Search form -->
             <div class="row tm-row">
                 <div class="col-12">
-                    <form action="http://www.google.com/search" method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                    <form action="https://www.google.com/webhp?hl=en-GB&source=hp&gws_rd=ssl" method="GET" class="form-inline tm-mb-80 tm-search-form">                
                         <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
                         <button class="tm-search-button" type="submit">
                             <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
@@ -101,7 +101,7 @@ https://templatemo.com/tm-553-xtra-blog
 							A Machine Learning Engineer / Researcher Located In Our Lovely Earth
                         </p>
                         <p>
-							My research interests include digital signal and image processing, industrial sound measurements, machine fault diagnosis, and deep learning. 
+							My research interest is applying artificial intelligence to digital signal and image processing, industrial sound measurements, machine fault diagnosis. 
                         </p>                            
                     </div>                    
                 </div>

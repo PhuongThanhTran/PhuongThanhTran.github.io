@@ -75,7 +75,7 @@ https://templatemo.com/tm-553-xtra-blog
             <!-- Search form -->
             <div class="row tm-row">
                 <div class="col-12">
-                    <form action="http://www.google.com/search" method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                    <form action="https://www.google.com/webhp?hl=en-GB&source=hp&gws_rd=ssl" method="GET" class="form-inline tm-mb-80 tm-search-form">                
                         <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
                         <button class="tm-search-button" type="submit">
                             <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
@@ -171,16 +171,17 @@ https://templatemo.com/tm-553-xtra-blog
 						diagnosis. Therefore we need to have a support system of early 
 						diagnosis to guide treatment for patients with acute leukemia as 
 						soon as possible. 
+						I found a researcher who tried to re-procedure <a rel="nofollow" href="https://www.researchgate.net/profile/T-Tran-4/publication/324746753_Leukemia_Blood_Cell_Image_Classification_Using_Convolutional_Neural_Network/links/5c05dfc192851c6ca1fc32f0/Leukemia-Blood-Cell-Image-Classification-Using-Convolutional-Neural-Network.pdf" target="_blank">my paper</a> using <a rel="nofollow" href="https://medium.com/leukemiaairesearch/acute-lymphoblastic-leukemia-detection-system-2020-6c1653a10d8e" target="_blank">Python</a>. 
                     </p>
                     <div class="d-flex justify-content-between tm-pt-45">
-                        <span class="tm-color-primary">Artworks . Design</span>
+                        <span class="tm-color-primary">Leukemia . CNN</span>
                         <span class="tm-color-primary">June 4, 2020</span>
                     </div>
                     <hr>
-                    <div class="d-flex justify-content-between">
+<!--                     <div class="d-flex justify-content-between">
                         <span>72 comments</span>
                         <span>by Admin Sam</span>
-                    </div>
+                    </div> -->
                 </article>
  <!--                <article class="col-12 col-md-6 tm-post">
                     <hr class="tm-hr-primary">
